@@ -9,6 +9,7 @@ return {
         "rustc $fileName &&",
         "$dir/$fileNameWithoutExt",
       },
+      go = "go run",
     })
   end,
 }
