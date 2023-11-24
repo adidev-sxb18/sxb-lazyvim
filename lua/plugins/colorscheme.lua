@@ -1,7 +1,8 @@
 return {
   "LazyVim/LazyVim",
 
+  -- setting the colorscheme for the lazyvim
   opts = {
-    colorscheme = "srcery",
+    colorscheme = "vscode",
   },
 }
