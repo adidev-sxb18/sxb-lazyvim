@@ -1,5 +1,5 @@
 return {
-  "srcery-colors/srcery-vim",
+  -- "srcery-colors/srcery-vim",
   "olimorris/onedarkpro.nvim",
   "Mofiqul/vscode.nvim",
   "LunarVim/darkplus.nvim",
@@ -7,4 +7,10 @@ return {
   "projekt0n/github-nvim-theme",
   "yazeed1s/oh-lucy.nvim",
   "Everblush/nvim",
+  "AlexvZyl/nordic.nvim",
+  "Tsuzat/NeoSolarized.nvim",
+  "catppuccin/nvim",
+  "rebelot/kanagawa.nvim",
+  "EdenEast/nightfox.nvim",
+  "sekke276/dark_flat.nvim",
 }
