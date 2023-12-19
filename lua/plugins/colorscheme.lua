@@ -3,6 +3,6 @@ return {
 
   -- setting the colorscheme for the lazyvim
   opts = {
-    colorscheme = "srcery",
+    colorscheme = "onedark_dark",
   },
 }
