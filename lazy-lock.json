@@ -19,7 +19,7 @@
   "conform.nvim": { "branch": "master", "commit": "7396fc0208539e2bd70e3e446f27529e28dba12b" },
   "crates.nvim": { "branch": "main", "commit": "81c6325b7f8875857ec09e5d24f3b6d7986f29e2" },
   "dark_flat.nvim": { "branch": "main", "commit": "7b9b781ab52c953adb462c654f3ad1154e5e8eb0" },
-  "darkplus.nvim": { "branch": "master", "commit": "9da63a03ddc841915783c6c87b5808604a6c1bfb" },
+  "darkplus.nvim": { "branch": "master", "commit": "cfea1ef79a55373e68d71cf5a982d39b28606149" },
   "dashboard-nvim": { "branch": "master", "commit": "63df28409d940f9cac0a925df09d3dc369db9841" },
   "dressing.nvim": { "branch": "master", "commit": "8b7ae53d7f04f33be3439a441db8071c96092d19" },
   "edgy.nvim": { "branch": "main", "commit": "8355be45610afdf79a0bab32b91ee297997455b4" },
